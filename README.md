@@ -1,6 +1,6 @@
 # global-library
 
-## What is global library
+## What is Global Library
 Global Library is an open-source library and a side project that aims to assist Product Designers to start a project quickly with comprehensive, cohesive, and consistent UI components across all platforms. The goal is to provide a library of reusable yet flexible design components and guidelines that can be easily implemented by development teams, using [design tokens](https://github.com/chongchizhang/token). 
 
 ### Scalability
