@@ -16,4 +16,4 @@ Global Library is built on a foundation of accessibility, scalability, and consi
 Global Library will soon be publsihed on Figma Community. This means that anyone can copy, remix, and contribute to the library, as well as report issues ([GitHub](https://github.com/chongchizhang/global-library/issues) or [Form](https://forms.gle/g6V8N9XnmMbhxCDm6)) and suggest improvements through our [Project Management tool](https://github.com/users/chongchizhang/projects/1). 
 
 ### Preview
-<iframe frameborder="0" width="800" height="600" src="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Ffile%2Foaro4HbEkBhrsNkod3egXO%2FGlobal-Library-%25F0%259F%25A7%25A9%3Fnode-id%3D0%253A1%26t%3DGOUitQM3qkIcN8Mu-1"></iframe>
+![Global Library Cover](https://cdn.myportfolio.com/b99c96fc6cb8c7f0e49229487795f35d/7b399f26-e072-4750-81d3-5cd910f727bd.png?h=c2ffc2f8a84f10dbe0099c9e5ed11959)
